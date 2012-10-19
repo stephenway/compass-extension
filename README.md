@@ -3,7 +3,7 @@ Compass Extension Scaffolding
 
 This scaffolding is meant to encourage rapid development with Compass Extensions. Customize everything, make it your own! Build and publishing instructions are in the gemspec file.
 
-## Contribe
+## Contribute
 Please fork this repository, then submit a pull request with your changes in a new branch.
 
 ## Installation
