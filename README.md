@@ -1,5 +1,4 @@
-Compass Extension Scaffolding
-=============================
+# ![compass-extension](http://i.imgur.com/p9qAv.png)
 
 This scaffolding is meant to encourage rapid development with Compass Extensions. Customize everything, make it your own! Build and publishing instructions are in the gemspec file.
 
@@ -10,7 +9,7 @@ Please fork this repository, then submit a pull request with your changes in a n
 
 ### Bundler
 If you want to bundle into your app, install bundler.
-	
+
 	$ gem install bundler
 
 With Bundler installed, add this to your Gemfile.
@@ -26,7 +25,7 @@ Run this in the command line:
 
 ### Manual
 If bundler isn't your thing, install this gem.
-	
+
 	$ gem install compass-extension
 
 Next in your Compass project add this to your config.rb
